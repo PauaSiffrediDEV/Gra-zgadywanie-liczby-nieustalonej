@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662539548 source:f:\programowanie\c++\gra\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
